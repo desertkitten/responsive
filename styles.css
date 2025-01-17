@@ -62,4 +62,23 @@ header h1 {
     z-index: 2;
 }
 
+/* About Me Section */
+
+.about-me {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px 20px;
+    border-radius: 8px;
+    z-index: 2;
+}
+
+.about-me p {
+    font-size: 1rem;
+    color: #333;
+    margin: 0;
+}
+
 /* Portfolio Section */
