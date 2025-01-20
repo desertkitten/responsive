@@ -60,7 +60,7 @@ header h1 {
     transform: translate(-50%, -50%);
     font-size: 2.5rem;
     color: #fff;
-    text-shadow: 2px 2pc 5px rgba(0, 0, 0, 0.3);
+    text-shadow: 1px 1pc 2px rgba(0, 0, 0, 0.3);
     z-index: 2;
 }
 
